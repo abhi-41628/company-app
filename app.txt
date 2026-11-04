@@ -1,1 +1,2 @@
 company production application
+app_env=production
